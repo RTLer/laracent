@@ -17,9 +17,9 @@
     },
     "require": {
         "php": ">=7.2.12",
-        "laravel/framework": "^5.7",
-        "guzzlehttp/guzzle": "^6.2",
-        "illuminate/broadcasting": "^5.7"
+        "laravel/framework": "^7.0",
+        "guzzlehttp/guzzle": "^6.5",
+        "illuminate/broadcasting": "^7.0"
     },
     "require-dev": {
         "orchestra/testbench": "^3.7",
